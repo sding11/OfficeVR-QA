@@ -1,2 +1,5 @@
 README.md filter=lfs diff=lfs merge=lfs -text
 XGOI3697.MOV filter=lfs diff=lfs merge=lfs -text
+small filter=lfs diff=lfs merge=lfs -text
+video.MOV filter=lfs diff=lfs merge=lfs -text
+SmallVideo.MOV filter=lfs diff=lfs merge=lfs -text
